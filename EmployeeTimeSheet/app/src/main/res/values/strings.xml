@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Employee Time Sheet</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_view_material">View Materials</string>
+</resources>

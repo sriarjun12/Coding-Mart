@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/id_emp"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:textColorHint="#FC9483"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:hint="ID" />
+
+    <EditText
+        android:id="@+id/name_emp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textColorHint="#FC9483"
+        android:hint="Name" />
+    <EditText
+        android:id="@+id/email_emp"
+        android:layout_width="match_parent"
+        android:textColorHint="#FC9483"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:hint="Email" />
+    <EditText
+        android:id="@+id/mobile_emp"
+        android:layout_width="match_parent"
+        android:inputType="number"
+        android:textColorHint="#FC9483"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:hint="Mobile" />
+    <EditText
+        android:id="@+id/designation_emp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textColorHint="#FC9483"
+        android:hint="Designation" />
+
+</LinearLayout>

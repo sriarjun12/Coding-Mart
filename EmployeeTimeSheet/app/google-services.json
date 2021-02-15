@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69522030834",
+    "project_id": "mini-project-a490e",
+    "storage_bucket": "mini-project-a490e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69522030834:android:889d142b775242ef4b506b",
+        "android_client_info": {
+          "package_name": "com.abort.employeetimesheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69522030834-bpis3qcfs0bver5o02qv13a2stlsunj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abort.employeetimesheet",
+            "certificate_hash": "8eec0835f7782aca24103fd2b56eb823dc8e5929"
+          }
+        },
+        {
+          "client_id": "69522030834-brpsknvqbvrasfk89k9jg02vaute9hvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHPnY9zR6jgWwl1EAiAgZa4Knul3yG-s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69522030834-brpsknvqbvrasfk89k9jg02vaute9hvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

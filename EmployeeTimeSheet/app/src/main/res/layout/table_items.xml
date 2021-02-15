@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+<TableRow
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="#FC9483"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/employee_id"
+        android:layout_gravity="center"
+        android:layout_weight="0.165"
+        android:gravity="center"/>
+    <View
+        android:layout_height="match_parent"
+        android:layout_width="1dp"
+        android:background="@color/black"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/employee_name"
+        android:layout_gravity="center"
+        android:layout_weight="0.5"
+        android:gravity="center"/>
+    <View
+        android:layout_height="match_parent"
+        android:layout_width="1dp"
+        android:background="@color/black"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_gravity="center"
+        android:layout_height="match_parent"
+        android:id="@+id/employee_email"
+        android:layout_weight="0.5"
+        android:gravity="center"/>
+    <View
+        android:layout_height="match_parent"
+        android:layout_width="1dp"
+        android:background="@color/black"/>
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/employee_mobile"
+        android:layout_weight="0.5"
+        android:gravity="center"/>
+    <View
+        android:layout_height="match_parent"
+        android:layout_width="1dp"
+        android:background="@color/black"/>
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/employee_designation"
+        android:layout_weight="0.5"
+        android:gravity="center"/>
+
+
+</TableRow>
+    <View
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:background="@color/black"/>
+
+</LinearLayout>
